@@ -4,9 +4,13 @@ The code in this toolbox implements the "[FRFSL: Feature Reconstruction based Cr
 
 ![](https://github.com/Yqx-ACE/TIP_2025_FRFSL/blob/main/FRFSL.png)  
 
+
+
 Citation
 ---
-Q. Yu et al., "FRFSL: Feature Reconstruction based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification," in IEEE Transactions on Image Processing, doi: 10.1109/TIP.2025.3646073.
+* Q. Yu et al., "FRFSL: Feature Reconstruction based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification," in IEEE Transactions on Image Processing, doi: 10.1109/TIP.2025.3646073.
+* 
+```javascript
 @ARTICLE{11314846,
   author={Yu, Qixing and Li, Zhongwei and Xin, Ziqi and Guo, Fangming and Ren, Guangbo and Wang, Jianbu and Bi, Zhenggang},
   journal={IEEE Transactions on Image Processing}, 
@@ -16,3 +20,16 @@ Q. Yu et al., "FRFSL: Feature Reconstruction based Cross-Domain Few-Shot Learnin
   number={},
   pages={1-1},
   doi={10.1109/TIP.2025.3646073}}
+
+Configuration
+---
+* Python 3.8.0
+
+* PyTorch 1.7.0.
+
+* i7-8700K CPU
+
+* NVIDIA A100 Tensor Core GPU
+
+How to Use?
+---
