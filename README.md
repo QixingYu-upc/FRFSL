@@ -32,6 +32,3 @@ Configuration
 * Inter Core i9-10900K CPU
 
 * NVIDIA RTX 3090 GPU
-
-How to use
----
