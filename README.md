@@ -20,7 +20,7 @@ Citation
   number={},
   pages={1-1},
   doi={10.1109/TIP.2025.3646073}}
-
+```
 Configuration
 ---
 * Python 3.8.0
@@ -30,6 +30,3 @@ Configuration
 * i7-8700K CPU
 
 * NVIDIA A100 Tensor Core GPU
-
-How to Use?
----
