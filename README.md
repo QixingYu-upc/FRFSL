@@ -23,10 +23,15 @@ Citation
 ```
 Configuration
 ---
-* Python 3.8.0
+* Python 3.10.0
 
-* PyTorch 1.7.0.
+* PyTorch 1.10.0
 
-* i7-8700K CPU
+* CUDA 11.2
 
-* NVIDIA A100 Tensor Core GPU
+* Inter Core i9-10900K CPU
+
+* NVIDIA RTX 3090 GPU
+
+How to use
+---
