@@ -1,6 +1,6 @@
-FRFSL: Feature Reconstruction based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification
+FRFSL: Feature Reconstruction-based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification
 ===
-The code in this toolbox implements the "[FRFSL: Feature Reconstruction based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/11314846)". More specifically, it is detailed as follow.
+The code in this toolbox implements the "[FRFSL: Feature Reconstruction-based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/11314846)". More specifically, it is detailed as follow.
 
 
 ![](https://github.com/Yqx-ACE/TIP_2025_FRFSL/blob/main/FRFSL.png)  
@@ -8,17 +8,17 @@ The code in this toolbox implements the "[FRFSL: Feature Reconstruction based Cr
 
 Citation
 ---
-* Q. Yu et al., "FRFSL: Feature Reconstruction based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification," in IEEE Transactions on Image Processing, doi: 10.1109/TIP.2025.3646073.
+* Q. Yu et al., "FRFSL: Feature Reconstruction-Based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification," in IEEE Transactions on Image Processing, vol. 35, pp. 194-207, 2026, doi: 10.1109/TIP.2025.3646073.
 * 
 ```javascript
 @ARTICLE{11314846,
   author={Yu, Qixing and Li, Zhongwei and Xin, Ziqi and Guo, Fangming and Ren, Guangbo and Wang, Jianbu and Bi, Zhenggang},
   journal={IEEE Transactions on Image Processing}, 
-  title={FRFSL: Feature Reconstruction based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification}, 
-  year={2025},
-  volume={},
+  title={FRFSL: Feature Reconstruction-Based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification}, 
+  year={2026},
+  volume={35},
   number={},
-  pages={1-1},
+  pages={194-207},
   doi={10.1109/TIP.2025.3646073}}
 ```
 Configuration
